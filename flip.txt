@@ -2,3 +2,4 @@ hii rithu
 this is sneha
 how r u
 im in devops training
+adding file in remote repo
