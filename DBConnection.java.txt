@@ -2,3 +2,4 @@ Hi Guys i am learning git commands
 hello gud afternoon
 this is development branch okay
 hello this is master branch
+i am workiing on stash command i need do some explore
